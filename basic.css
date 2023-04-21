@@ -1,0 +1,21 @@
+.my-basic{
+    background-color: brown;
+    color: blueviolet;
+}
+#our-id{
+    background-color:#00235B;
+    color:#E21818 ;
+}
+p{
+    background-color: aquamarine;
+}
+strong{
+    background-color: yellow;
+}
+ol{
+    color: #617143;
+}
+h1{
+    background-color: orange;
+    color:green;
+}

@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.family{
+    background-color: #6DA9E4;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.myson{
+   
+    background-color: #FF6D60;
+    width: 200px;
+    height: 200px;
+    ;
+    
+}
+.mydaughter{
+  //  display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+
+}

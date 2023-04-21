@@ -1,0 +1,13 @@
+.my-stdio{
+    background-color: #30E3CA;
+    color:#569DAA;
+   border: 2px dotted red;
+}
+#my-id{
+    background-color:#F9ED69;
+    color:#F08A5D;
+}
+p{
+    background-color:#F67280 ;
+    color:#6C5B7B;
+    border: 3px solid black

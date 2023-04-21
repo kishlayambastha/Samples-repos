@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.moon{
+    position: relative;
+    background-color: #070A52;
+    width: 440px;
+    height: 500px;
+}
+
+.sun{
+    position: absolute;
+    background-color:#F15A59;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    top: 0;
+    right: 0;
+}
+
+.star{
+    display: inline-block;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+
+}
+
